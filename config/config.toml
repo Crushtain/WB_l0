@@ -1,0 +1,17 @@
+[App]
+Name = "WB_l0"
+Version = "1.0.0"
+
+[Database]
+Name = "postgres"
+Host = "localhost"
+Port = "5432"
+User = "postgres"
+Password = "as1df2gh3"
+Schema = "public"
+MaxPoolSize = 10
+
+[HttpServer]
+bindAddr = ":8080"
+logLevel = "debug"
+
