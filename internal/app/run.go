@@ -1,8 +1,8 @@
 package app
 
 import (
-	"WB_l0/config"
-	"WB_l0/pkg/postgres"
+	"WB_L0/config"
+	"WB_L0/pkg/postgres"
 	"context"
 	"log"
 )

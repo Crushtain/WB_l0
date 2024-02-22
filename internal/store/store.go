@@ -1,7 +1,7 @@
 package store
 
 import (
-	"WB_l0/config"
+	"WB_L0/config"
 	"database/sql"
 )
 

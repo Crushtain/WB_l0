@@ -1,7 +1,7 @@
 package postgres
 
 import (
-	"WB_l0/config"
+	"WB_L0/config"
 	"context"
 	"fmt"
 	"github.com/Masterminds/squirrel"
